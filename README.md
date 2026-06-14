@@ -1,2 +1,25 @@
-# 5f81e3f1-saas-analytics-metrics-sow-a
-Fill-in-the-blank statements of work, project scopes, and deliverable checklists. Prevent scope creep with airtight project documentation.
+# SaaS Analytics & Metrics SOW and Scope Document Generator
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/aFa7sL8v51g04pq47qcZc2L)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/aFa7sL8v51g04pq47qcZc2L)
+
